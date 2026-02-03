@@ -138,9 +138,8 @@ if (newsletterForm) {
 const heroCarousel = document.getElementById('heroCarousel');
 if (heroCarousel) {
     const carousel = new bootstrap.Carousel(heroCarousel, {
-        interval: 5000,
+        interval: 1000,
         wrap: true,
-        pause: 'hover'
     });
 }
 
