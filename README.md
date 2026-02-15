@@ -5,4 +5,5 @@ this change is used to teach checkout CLI
 
 this text was used to display forking
 
-this is merge conflict
+this uis new merge
+
