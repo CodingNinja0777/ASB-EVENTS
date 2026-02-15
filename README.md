@@ -5,4 +5,4 @@ this change is used to teach checkout CLI
 
 this text was used to display forking
 
-this is second push and pull testing in CLI
+this is merge conflict
